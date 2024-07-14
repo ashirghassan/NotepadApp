@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Notepad</string>
     <string name="welcome_message">Welcome, %1$s!</string>
-    <string name="default_web_client_id">661776347086-v0s30qlqd4b3o8l2oso8k7hu9kemrml8.apps.googleusercontent.com</string>
+    <string name="default_web_client_id">default_web_client_id</string>
 </resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- item_note.xml -->
+
+                                                        
+
+    
+                 
+                       
+                                              
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp" android:tag="layout/item_note_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <!-- Bullet Point Icon -->
+        <ImageView
+            android:id="@+id/imageViewBullet"
+            android:layout_width="12sp"
+            android:layout_height="12sp"
+            android:layout_marginTop="12dp"
+            android:src="@drawable/ic_bullet_point"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!-- Note TextView -->
+        <TextView
+            android:id="@+id/textViewNote"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:tag="binding_1"    
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:paddingHorizontal="16dp"
+            android:paddingBottom="16dp"
+            app:layout_constraintStart_toEndOf="@id/imageViewBullet"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+        <!-- Horizontal line -->
+        <View
+            android:id="@+id/horizontalLine"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/greyColor"
+            app:layout_constraintTop_toBottomOf="@id/textViewNote"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="8dp" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

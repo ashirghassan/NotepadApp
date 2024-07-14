@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/menu_menu_notes.xml.flat",
+        "source": "com.example.notepad.app-main-81:/menu/menu_notes.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/drawable_ic_logout.xml.flat",
+        "source": "com.example.notepad.app-main-81:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/drawable_ic_edit.xml.flat",
+        "source": "com.example.notepad.app-main-81:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/navigation_nav_graph.xml.flat",
+        "source": "com.example.notepad.app-main-81:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/layout_fragment_login.xml.flat",
+        "source": "com.example.notepad.app-main-81:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/layout_item_note.xml.flat",
+        "source": "com.example.notepad.app-main-81:/layout/item_note.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/drawable_ic_launcher_foreground.png.flat",
+        "source": "com.example.notepad.app-main-81:/drawable/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/drawable_ic_launcher_background.png.flat",
+        "source": "com.example.notepad.app-main-81:/drawable/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.notepad.app-main-81:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/xml_backup_rules.xml.flat",
+        "source": "com.example.notepad.app-main-81:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/drawable_ic_delete.xml.flat",
+        "source": "com.example.notepad.app-main-81:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/layout_activity_main.xml.flat",
+        "source": "com.example.notepad.app-main-81:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/layout_dialog_add_note.xml.flat",
+        "source": "com.example.notepad.app-main-81:/layout/dialog_add_note.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/drawable_ic_bullet_point.xml.flat",
+        "source": "com.example.notepad.app-main-81:/drawable/ic_bullet_point.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/layout_fragment_notes.xml.flat",
+        "source": "com.example.notepad.app-main-81:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.notepad.app-main-81:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.notepad.app-debug-79:/drawable_ic_add.xml.flat",
+        "source": "com.example.notepad.app-main-81:/drawable/ic_add.xml"
+    }
+]

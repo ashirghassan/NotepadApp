@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">661776347086-v0s30qlqd4b3o8l2oso8k7hu9kemrml8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">661776347086</string>
+    <string name="google_api_key" translatable="false">AIzaSyAUfQgy6570ERTx_vMrxKMgEv_p2gNhI-I</string>
+    <string name="google_app_id" translatable="false">1:661776347086:android:db28ac5e0e14463658459f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUfQgy6570ERTx_vMrxKMgEv_p2gNhI-I</string>
+    <string name="google_storage_bucket" translatable="false">notepad-428621.appspot.com</string>
+    <string name="project_id" translatable="false">notepad-428621</string>
+</resources>

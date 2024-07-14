@@ -1,0 +1,6 @@
+com.example.notepad.test.app-annotation-experimental-1.3.0-0 C:\Users\OMEN\.gradle\caches\transforms-4\2b6ec451da99876e76d05b145e401e8f\transformed\annotation-experimental-1.3.0\res
+com.example.notepad.test.app-core-1.5.0-1 C:\Users\OMEN\.gradle\caches\transforms-4\7cd7774986c1aec89b6457e9631ff5ec\transformed\core-1.5.0\res
+com.example.notepad.test.app-androidTest-2 D:\Projects\Notepad\app\build\generated\res\resValues\androidTest\debug
+com.example.notepad.test.app-mergeDebugAndroidTestResources-3 D:\Projects\Notepad\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.notepad.test.app-mergeDebugAndroidTestResources-4 D:\Projects\Notepad\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.notepad.test.app-debugAndroidTest-5 D:\Projects\Notepad\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

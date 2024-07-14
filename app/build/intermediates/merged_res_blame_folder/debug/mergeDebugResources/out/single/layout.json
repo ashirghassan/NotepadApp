@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.notepad.app-mergeDebugResources-78:/layout/dialog_add_note.xml",
+        "source": "com.example.notepad.app-main-81:/layout/dialog_add_note.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-mergeDebugResources-78:/layout/fragment_login.xml",
+        "source": "com.example.notepad.app-main-81:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-mergeDebugResources-78:/layout/item_note.xml",
+        "source": "com.example.notepad.app-main-81:/layout/item_note.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-mergeDebugResources-78:/layout/activity_main.xml",
+        "source": "com.example.notepad.app-main-81:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.notepad.app-mergeDebugResources-78:/layout/fragment_notes.xml",
+        "source": "com.example.notepad.app-main-81:/layout/fragment_notes.xml"
+    }
+]
